@@ -8,7 +8,7 @@ Then it takes a OS fingerprint (OS, OS build, IP, current user, etc) and sends i
 After, it sorts to the Downloads folder and downloads the latest 10 things from there and then moves to the Documents folder but downloads 20 items.
 Once done, it dencrypts it self and then promptly deletes it self.
 
-# Cool! What the roadmap?
+# Cool! Whats the roadmap?
 Just this for now. Possibly plan on keylogging (maybe?) or a crypto-miner. Please make a pull request with ideas!
 
 # OK! But why is this inspired by Rei Aayanami? what does REI stand for?
