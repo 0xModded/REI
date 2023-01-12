@@ -14,4 +14,4 @@ Just this for now. Possibly plan on keylogging (maybe?) or a crypto-miner. Pleas
 # OK! But why is this inspired by Rei Aayanami? what does REI stand for?
 Because it kind of reminds me of her. 
 It stands for **R**andom **E**ncrypted **I**nternal
-![Alt Text](https://i.pinimg.com/originals/e2/9d/91/e29d916cf40ade4cf03af70266555939.gif)
+![Alt Text](https://media.tenor.com/w8FwRbG9pyAAAAAd/rei-ayanami-rei.gif)
